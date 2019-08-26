@@ -1,4 +1,4 @@
-class negociacao{
+class Negociacao{
 
     private _data;
     private _quantidade;
